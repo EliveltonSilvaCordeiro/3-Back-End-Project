@@ -35,7 +35,6 @@ I follow this challenge step by step in the Jupyter Notebook file (.ipynb), and 
 > - Use your API key and type a name of a city to recieve a 5-day Weather Forecast for that city
 
 > Only in the Python file
-> - Program loop for searching many cities you want without having to run the code again 
 > - Save the forecast in a text file
 
 ## :camera: Screenshots
@@ -53,4 +52,4 @@ I follow this challenge step by step in the Jupyter Notebook file (.ipynb), and 
 
 Compacted Project (.zip): <a href="https://github.com/EliveltonSilvaCordeiro/Weather-Forecast-API/archive/refs/heads/main.zip">here</a>
 
-Python file executable: (.exe): <a href="https://www.mediafire.com/file/r0dajip2r74j0gn/Project-3-Weather-Forecast-API.exe/file">here</a>
+Python file executable: (.exe): <a href="https://www.mediafire.com/file/mfgtez6wdamrmqt/3%25C2%25B0_B.E.P..exe/file">here</a>
