@@ -23,15 +23,7 @@ while run_again == "Y":
     else:
         print(f"""\nCode Error: {forecast_info['cod']} \nSee https://openweathermap.org/faq/#api-errors \
 for more details""")
-
-        run_again = input("\nTry Again? Y or N?: ").upper()
-
-        if run_again == "Y":
-
-            print("\n<><><><><><><><><><><><><><><><><><><><><>\n")
-
-        else:
-            run_again = "N"
+        exit()
 
     country = forecast_info['city']['country']
 
